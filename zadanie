@@ -1,0 +1,13 @@
+Program, który dokonuje sortowania liczb rosnąco lub tekstu alfabetycznie (z automatycznym wykrywaniem, jakiego typu jest plik - pliki z mieszaną zawartością można potraktować jako tekstowe) w pliku wybranym przez użytkownika. Każda linia stanowi osobny element, czyli np. plik o zawartości:
+71
+2
+5
+Posortowany ma zostać jako:
+2
+5
+71
+
+Użytkownik powinien mieć do wyboru 3 metody sortowania (bubblesort, quicksort i jeszcze jedna - dowolnie wybrana). Do ich obsługi posłużyć się należy wzorcem projektowym 'strategia'. Po zakończonym sortowaniu należy pokazać podsumowanie składające się z:
+
+ilości posortowanych elementów
+czasu sortowania
